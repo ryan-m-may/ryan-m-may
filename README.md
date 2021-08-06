@@ -7,7 +7,7 @@ LinkedIn, Gmail
 
 - Working as a SEIR for Galvanize's Operation: Level Up program.
 
-- I’m currently working on re-creating a full-stack application using Go and TypeScript that I had previously made in JavaScript and Node. Then hosting it on my Raspberry Pi LAN to simulate a real world server farm.
+- I’m currently working on re-creating a full-stack application using Go and TypeScript that I had previously made in JavaScript and Node.
 
 ### Languages & Tools:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
