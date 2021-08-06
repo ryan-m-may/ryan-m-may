@@ -1,5 +1,7 @@
 ### Hi there! I'm Ryan May
 ---
+
+-->
 [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/ryan-m-may/]
 LinkedIn, Gmail
 
