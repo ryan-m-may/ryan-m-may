@@ -1,5 +1,4 @@
 ## Hi there! I'm Ryan May
----
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 
