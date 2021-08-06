@@ -5,9 +5,9 @@
 
 LinkedIn, Gmail
 
-- Currently working as a SEIR for Galvanize's Operation: Level Up program.
+- Working as a SEIR for Galvanize's Operation: Level Up program.
 
-- 🔭 I’m currently working on re-creating a full-stack application using Go and TypeScript that I had previously made in JavaScript and Node.
+- I’m currently working on re-creating a full-stack application using Go and TypeScript that I had previously made in JavaScript and Node.
 
 ### Languages & Tools:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -28,7 +28,7 @@ LinkedIn, Gmail
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-- ⚡ Fun fact: I make custom electric guitars using hand tools (no electricity) on the off chance that I'm not coding in my free time.
+- Fun fact: I make custom electric guitars using hand tools (no electricity) on the off chance that I'm not coding in my free time.
 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/ryan-m-may
