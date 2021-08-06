@@ -3,8 +3,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 
-LinkedIn, Gmail
-
 - Working as a SEIR for Galvanize's Operation: Level Up program.
 
 - I’m currently working on re-creating a full-stack application using Go and TypeScript that I had previously made in JavaScript and Node.
