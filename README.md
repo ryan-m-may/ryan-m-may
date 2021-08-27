@@ -2,7 +2,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 
-- Working as a SEIR for Galvanize's Operation: Level Up program.
+- Working as a SEIR for Galvanize's Military Career Skills Program.
 
 - I’m currently re-creating a full-stack application using Go and TypeScript that I had previously made in JavaScript and Node.
 
